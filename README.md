@@ -26,6 +26,8 @@ The `--resize_range` argument specifies the image sizes to which the digits are 
 
 ### Dataset Examples
 
+Each entry in the dataset is formatted as follows:
+
 ```
 "7": [{"target":  2, "bbox": [268, 334, 110, 110]},
 	  {"target":  3, "bbox": [398, 391, 232, 232]},
@@ -36,8 +38,7 @@ The `--resize_range` argument specifies the image sizes to which the digits are 
 		{"target":  4, "bbox": [435, 69, 91, 91]}
 	 ], ...
 ```
-
-<img src="https://github.com/selinakhan/ObjectMNIST/blob/main/7.png?raw=true", width="128"/>
+Which would correspond to this generated image:
 
 ![example](https://github.com/selinakhan/ObjectMNIST/blob/main/7.png?raw=true)
  
