@@ -37,7 +37,7 @@ The `--resize_range` argument specifies the image sizes to which the digits are 
 	 ], ...
 ```
 
-
+<img src="https://github.com/selinakhan/ObjectMNIST/blob/main/7.png?raw=true", width="128"/>
 
 ![example](https://github.com/selinakhan/ObjectMNIST/blob/main/7.png?raw=true)
  
