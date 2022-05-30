@@ -39,5 +39,5 @@ The `--resize_range` argument specifies the image sizes to which the digits are 
 
 
 
-![example](https://github.com/selinakhan/ObjectMNIST/blob/main/7.png?raw=true
+![example](https://github.com/selinakhan/ObjectMNIST/blob/main/7.png?raw=true)
  
