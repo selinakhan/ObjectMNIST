@@ -1,4 +1,4 @@
-# Generating an ObjectMNIST dataset
+ # Generating an ObjectMNIST dataset [in progress]
 This repository includes the code needed to generate a dataset with MNIST digits randomly placed on an image. It exports the labels with corresponding bounding boxes; useful for object detection.
 
 ## Code files
