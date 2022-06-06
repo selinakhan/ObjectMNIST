@@ -44,6 +44,5 @@ Which would correspond to this generated image:
 
 ### Improvements
 
-In this current version, the algorithm deals with occluded images by just trying to sample a new random location until it has found a placing which doesnt occlude with any other images. If this can't be satisfied within 25 tries, it samples a new image. This is a rather naive approach, so there's a lot of room for improvement!
-
+In this current version, the algorithm deals with occluded images by just trying to sample a new random location until it has found a placing which doesnt occlude with any other images. If this can't be satisfied within 25 tries, it samples a new image. This is a rather naive approach, so there's room for improvement.
  
